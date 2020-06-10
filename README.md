@@ -1,2 +1,0 @@
-# zoomoutportfolio
-Created with CodeSandbox
